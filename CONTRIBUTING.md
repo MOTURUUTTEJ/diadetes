@@ -1,4 +1,4 @@
-# Contributing to diadetes
+# Contributing to the Diabetes Project
 
 Thank you for your interest in contributing.
 

@@ -1,4 +1,4 @@
-# diadetes
+# Diabetes Project (diadetes)
 
 A notebook-first machine learning project for health-risk experimentation, focused on diabetes prediction with an additional pregnancy-status modeling workflow.
 
