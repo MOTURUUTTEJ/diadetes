@@ -1,5 +1,7 @@
 # diadetes
 
+> Note: The repository name is intentionally kept as `diadetes` to match the existing project/repo identity.
+
 A starter notebook project for experimenting with Python, data science workflows, and AI tooling in **Google Colab**.
 
 ## Project overview
